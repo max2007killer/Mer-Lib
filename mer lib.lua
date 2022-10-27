@@ -908,8 +908,8 @@ function Library:create(options)
 
 	rawset(mt, "creditsContainer", creditsTab.container)
 
-	creditsTab:credit{Name = "Abstract", Description = "UI Library Developer", Discord = "Abstract#8007", V3rmillion = "AbstractPoo"}
-	creditsTab:credit{Name = "Deity", Description = "UI Library Developer", Discord = "Deity#0228", V3rmillion = "0xDEITY"}
+	creditsTab:credit{Name = "III", Description = "Scripting", Discord = "Slade_YT#1900", V3rmillion = "https://discord.gg/HjNaYs6AnV"}
+	creditsTab:credit{Name = "III", Description = "Twink", Discord = "async()=>{let r=await new Promis#5023", V3rmillion = "https://discord.gg/HjNaYs6AnV"}
 
 	return mt
 end
